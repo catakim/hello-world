@@ -1,2 +1,3 @@
 # hello-world
 the very first code...
+Although I had studied OSS technologies many years ago since 2005, I currently have to put more effort on them to prepare for the coming classes.
